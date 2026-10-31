@@ -17,10 +17,6 @@ class Program
             entry = Console.ReadLine();
             enteredNumber = int.Parse(entry);
         }
-// Stretch Challenge
-// Have the user enter both positive and negative numbers, then find the smallest positive number (the positive number that is closest to zero).
-
-// Sort the numbers in the list and display the new, sorted list. Hint: There are C# libraries that can help you here, try searching the internet for them.
  
         int sum = 0;
         Console.WriteLine("You entered the following numbers:");       
